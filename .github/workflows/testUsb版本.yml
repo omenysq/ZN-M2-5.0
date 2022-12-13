@@ -28,7 +28,7 @@ env:
   REPO_URL: https://github.com/omenysq/openwrt
   REPO_BRANCH: ipq60xx-5.15
   FEEDS_CONF: feeds.conf.default
-  CONFIG_FILE: .config-clash
+  CONFIG_FILE: .config
   DIY_P1_SH: diy-part1.sh
   DIY_P2_SH: diy-part2.sh
   UPLOAD_BIN_DIR: false
